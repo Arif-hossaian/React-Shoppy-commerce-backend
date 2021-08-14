@@ -17,6 +17,7 @@
     "express": "^4.17.1",
     "mongoose": "^5.13.6",
     "mongoose-auto-increment": "^5.0.1",
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.12",
+    "sslcommerz-lts": "^1.0.1"
   }
 }
